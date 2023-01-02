@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aston_Intensive5</string>
+    <string name="name">Name:</string>
+    <string name="lastname">Lastname:</string>
+    <string name="number">Number:</string>
+    <string name="hint_edittext_name">Type name here.</string>
+    <string name="hint_edittext_lastname">Type lastname here.</string>
+    <string name="hint_edittext_number">Type number here.</string>
+    <string name="btn_save_changes">Save changes</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_peach"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/default_height"
+        android:layout_margin="@dimen/default_margin"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center"
+        android:maxLines="2"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_for_tv"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/default_height"
+        android:layout_margin="@dimen/default_margin"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center"
+        android:maxLines="2"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_for_tv"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_3"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/default_height"
+        android:layout_margin="@dimen/default_margin"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center"
+        android:maxLines="2"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_for_tv"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_4"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/default_height"
+        android:layout_margin="@dimen/default_margin"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:gravity="center"
+        android:maxLines="2"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_for_tv"
+        android:textStyle="bold" />
+</LinearLayout>
